@@ -1,1 +1,1 @@
-# www.IncredibleIndia.in
+IncredibleIndia.github.io
